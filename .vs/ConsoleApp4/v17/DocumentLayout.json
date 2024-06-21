@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B16E00A-D728-44E0-A4BD-7ED811930F41}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B16E00A-D728-44E0-A4BD-7ED811930F41}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B16E00A-D728-44E0-A4BD-7ED811930F41}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\consoleapp4\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B16E00A-D728-44E0-A4BD-7ED811930F41}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B16E00A-D728-44E0-A4BD-7ED811930F41}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\ali\\source\\repos\\consoleapp4\\consoleapp4\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B16E00A-D728-44E0-A4BD-7ED811930F41}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B16E00A-D728-44E0-A4BD-7ED811930F41}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\consoleapp4\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B16E00A-D728-44E0-A4BD-7ED811930F41}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B16E00A-D728-44E0-A4BD-7ED811930F41}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\consoleapp4\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B16E00A-D728-44E0-A4BD-7ED811930F41}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B16E00A-D728-44E0-A4BD-7ED811930F41}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\ali\\source\\repos\\consoleapp4\\consoleapp4\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B16E00A-D728-44E0-A4BD-7ED811930F41}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B16E00A-D728-44E0-A4BD-7ED811930F41}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\consoleapp4\\birds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B16E00A-D728-44E0-A4BD-7ED811930F41}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\birds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animals.cs",
+              "DocumentMoniker": "C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Animals.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Animals.cs",
+              "ToolTip": "C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Animals.cs",
+              "RelativeToolTip": "ConsoleApp4\\Animals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:25:44.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Fish.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Fish.cs",
+              "ToolTip": "C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Fish.cs",
+              "RelativeToolTip": "ConsoleApp4\\Fish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:05:35.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Birds.cs",
+              "DocumentMoniker": "C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Birds.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Birds.cs",
+              "ToolTip": "C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Birds.cs",
+              "RelativeToolTip": "ConsoleApp4\\Birds.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:05:24.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Dog.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Dog.cs",
+              "ToolTip": "C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Dog.cs",
+              "RelativeToolTip": "ConsoleApp4\\Dog.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:05:09.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Cat.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Cat.cs",
+              "ToolTip": "C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Cat.cs",
+              "RelativeToolTip": "ConsoleApp4\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:04:51.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Animal.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Animal.cs",
+              "ToolTip": "C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Animal.cs",
+              "RelativeToolTip": "ConsoleApp4\\Animal.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:04:27.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
+              "ToolTip": "C:\\Users\\ALI\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:04:14.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
